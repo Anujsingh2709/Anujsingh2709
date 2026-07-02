@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Anuj Singh Banner" width="100%">
+  <img src="<img width="1500" height="500" alt="Anuj Singh" src="https://github.com/user-attachments/assets/dec7656d-ec2f-4788-99f8-6956d925ab01" />
+" alt="Anuj Singh Banner" width="100%">
 </p>
 
 <h1 align="center">
