@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" alt="Anuj Singh Banner" width="100%">
+  <img src="banne.png" alt="Anuj Singh Banner" width="100%">
 </p>
 
 <h1 align="center">
