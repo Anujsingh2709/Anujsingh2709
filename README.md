@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="<img width="1500" height="500" alt="Anuj Singh" src="https://github.com/user-attachments/assets/dec7656d-ec2f-4788-99f8-6956d925ab01" />
+  <img src=<img width="1500" height="500" alt="Anuj Singh" src="https://github.com/user-attachments/assets/99adc9ed-d1d1-4c65-b6ff-437c899ad8e2" />
 " alt="Anuj Singh Banner" width="100%">
 </p>
 
@@ -20,13 +20,14 @@ Hi 👋, I'm Anuj Singh
 
 # 👨‍💻 About Me
 
-🎓 Student
+🎓 First Year Student
 
 🌱 Currently Learning
 
 - C Programming
-- Python
-- C++
+- HTML
+- CSS
+- JavaScript
 - Git & GitHub
 
 🎯 Goal
